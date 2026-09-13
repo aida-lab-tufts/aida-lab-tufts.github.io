@@ -1,4 +1,4 @@
-# data0297.github.io
+# AIDA lab courses at Tufts University 
 
 ## Welcome to DATA0297 courses at Tufts University Data Analytics! 
 Here you will find:
